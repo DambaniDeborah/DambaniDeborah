@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DambaniDeborah
 - 👀 I’m interested in using R for Pk/PD analysis
-- 🌱 I’m currently learning R programming A-Z on Udemy
+- 🌱 I’m currently learning R for Pharmacometrics by Metrum
 - 📫 How to reach me debbydambani@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm passionately curious
